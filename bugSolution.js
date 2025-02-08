@@ -1,0 +1,1 @@
+Ensure that the `google-services.json` file is correctly configured and placed in the `android/app` directory.  Double-check that the package name in `google-services.json` matches your app's package name.  Try running `expo prebuild` and then `expo build:android` again.
