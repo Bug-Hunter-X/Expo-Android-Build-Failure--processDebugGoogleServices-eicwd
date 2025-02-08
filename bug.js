@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK. The build process fails with a message similar to "Execution failed for task ':app:processDebugGoogleServices". This is often caused by a mismatch between the Google Services JSON file and the project configuration.
